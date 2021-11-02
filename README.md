@@ -12,3 +12,5 @@ In this repository, codes are separated into two parts, first for data regulizat
 The concated data is the finally used data, and the raw data can be finded in the U.S. National Climate Data Center and the China Meteorological Bureau.
 
 The parameters used in the model can be found in the package called reused parameters, it should be marked as source root.
+
+The structure of the model haven't submitted to this project and it will be submitted in the near future.
