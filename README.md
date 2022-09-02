@@ -13,4 +13,4 @@ The concated data is the finally used data, and the raw data can be finded in th
 
 The parameters used in the model can be found in the package called reused parameters, it should be marked as source root.
 
-The structure of the model haven't submitted to this project and it will be submitted in the near future.
+The structure of the model has been submitted, while parameters should be tuned carefully for different dataset.
